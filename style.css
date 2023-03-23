@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background: #FEFFDE;
+}
+.box1
+{
+    width: 400px;
+    margin: 60px auto;
+    padding: 10px;
+}
+.inputs 
+{
+    padding: 2rem 0 2rem 0;
+    text-align: center;
+    justify-content: center;
+    background: #FFC4C4;
+    height: 30vh;
+}
+.inputs input[type="text"] 
+{
+    height: 4rem;
+    width: 20rem;
+    background: #212121;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    border: 4px solid #DEFCF9;
+    border-radius: 2px;
+    margin-right:4px ;
+}
+.inputs input[type="submit"] 
+{
+    height: 3rem;
+    width: 6rem;
+    background: #DEFCF9;
+    font-weight: bold;
+    color: black;
+    font-size: 1rem;
+    margin-top: 20px;
+    border: none;
+    border-radius: 2px;
+}
+.box2
+{
+    text-align: center;
+    width: 400px;
+    color: Black;
+}
+.purple
+{
+    margin: 0 9rem;
+    background-color: #FFC4C4;
+    height: 30vh;
+    margin: 50px auto;
+    border-radius: 4px;
+}
+
+.purple h2
+{
+    padding: 5px 0;
+    text-align: center;
+    background: #C3BEF0;
+    color: black;
+    font-family: sans-serif;}
+.purple p
+{
+    margin:20px 50px;
+    margin-right: 20px;
+    text-align: left;
+    color: navy;
+    font-size:23px;
+}
+.purple h2 span
+{
+    font-size: 26px;
+    color: black;
+}
+.purple p span
+{
+    color: #850E35;
+    font-size: 25px;
+}
